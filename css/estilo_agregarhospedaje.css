@@ -1,0 +1,206 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #92D07D;
+}
+
+#todo{
+	width: 100%;
+	height: 100%;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#top{
+	width: 100%;
+	height: 120px;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	padding: 0px;
+	border-top: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+}
+#titulo1{
+	width: 85px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 90px;
+	float: left;
+}
+#titulo2{
+	width: 150px;
+	height: 80%;
+	color: green;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+#titulo3{
+	width: 60px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+
+#reg{
+	width: 170px;
+	height: 30%;
+	float: right;
+	margin-right: 90px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#log{
+	width: 150px;
+	height: 30%;
+	float: right;
+	margin-right: 10px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#centro{
+	width: 100%;
+	height: 100%;
+}
+
+#caja{
+ 	width: 60%;
+ 	height: 70%;
+ 	margin-left: 5%;
+ 	margin-top: 5%;
+ 	border-left: 2px solid #355F24;
+	border-right: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+	border-top: 2px solid #355F24;
+	float: left;
+	background-color: #57973B;
+	border-radius: 55px;
+}
+
+#arriba{
+ 	width: 100%;
+ 	height: 10%;
+ 	text-align: center;
+ 	border-bottom: 2px solid #355F24;
+}
+
+#abajo{
+	width: 100%;
+	height: 90%;
+}
+
+#Nom{
+	width: 50%;
+	height: 8%;
+	float: left;
+}
+
+#Reg{
+	width: 50%;
+	height: 8%;
+	float: right;
+}
+
+
+#Dir{
+	width: 50%;
+	height: 8%;
+	float: right;
+}
+
+#Hos{
+	width: 50%;
+	height: 8%;
+	float: left;
+}
+
+#Tel{
+	width: 50%;
+	height: 8%;
+	float: right;
+}
+
+#Cor{
+	width: 50%;
+	height: 8%;
+	float: left;
+}
+
+#Cama{
+	width: 30%;
+	height: 8%;
+	float: left;
+}
+
+#Hab{
+	width: 30%;
+	height: 8%;
+	float: left;
+}
+
+#wifi{}
+
+#TV{
+	width: 50%;
+	height: 8%;
+	float: left;
+}
+
+#Esta{
+	width: 50%;
+	height: 8%;
+	float: right;
+}
+
+#HosEco{
+	width: 50%;
+	height: 8%;
+	float: left;
+}
+
+#HosCar{
+	width: 50%;
+	height: 8%;
+	float: right;
+}
+
+#des{
+	width: 90%;
+	height: 30%;
+	float: left;
+}
+
+#Imag{
+	width: 50%;
+	height: 10%;
+	float: left;
+}
+
+#boton{
+	float: right;
+	margin-right: 10%;
+}

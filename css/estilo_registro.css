@@ -1,0 +1,246 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#todo{
+	width: 100%;
+	height: 100%;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+#top{
+	width: 100%;
+	height: 120px;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	padding: 0px;
+	border-top: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+}
+
+#titulo1{
+	width: 85px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 90px;
+	float: left;
+}
+#titulo2{
+	width: 150px;
+	height: 80%;
+	color: green;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+
+#titulo3{
+	width: 60px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+
+#centro{
+	width: 100%;
+	height: 100%;
+	margin: all;
+	background-color: #92D07D;
+}
+
+#cajaRegistro{
+	width: 40%; 
+	height: 80%;
+	margin-left: 10%;
+	margin-top: 3%;
+	border-left: 2px solid #355F24;
+	border-right: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+	border-top: 2px solid #355F24;
+	float: left;
+	background-color: #57973B;
+	border-radius: 55px;
+}
+
+#inicio{
+	width: 100%;
+	height: 25%;
+	float: left;
+	border-bottom: 2px solid #355F24;
+}
+
+#foto{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+#registrate{
+	width: 75%;
+	height: 100%;
+	float: right;
+	color: white;
+}
+
+#registrateTexto{
+	font-size: 40px;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+#datos{
+	width: 100%;
+	height: 70%;
+	float: left;
+}
+
+#email{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoEmail{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 10%; 
+	font-size: 20px;
+}
+
+#cajaEmail{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#nombre{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoNombre{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 10%;
+	font-size: 20px;
+}
+
+#cajaNombre{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#fecha{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoFecha{
+	width: 28%;
+	height: 100%;
+	float: left;
+	margin-right: 2%;
+	font-size: 20px;
+}
+
+#cajaFecha{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#contra{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoContra{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 5%;
+	font-size: 20px;
+}
+
+#cajaContra{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#contra2{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoContra2{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 5%;
+	font-size: 20px;
+}
+
+#cajaContra2{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#tipoUsuario{
+	width: 100%;
+	height: 30%;
+	float: left;
+	margin-bottom: 2.5%;
+	margin-top: 2.5%;
+}
+
+#textoUsuario{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 5%;
+	font-size: 20px;
+}
+
+#cajaUsuario{
+	width: 70%;
+	height: 100%;
+	float: right;
+}
+
+#boton{
+	float: right;
+	margin-right: 15%;
+	margin-bottom: 3%;
+}

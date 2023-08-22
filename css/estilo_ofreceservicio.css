@@ -1,0 +1,168 @@
+html, body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#todo{
+	width: 100%;
+	height: 100%;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#top{
+	width: 100%;
+	height: 120px;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	padding: 0px;
+	border-top: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+}
+#titulo1{
+	width: 85px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 90px;
+	float: left;
+}
+#titulo2{
+	width: 150px;
+	height: 80%;
+	color: green;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+#titulo3{
+	width: 60px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+
+#reg{
+	width: 170px;
+	height: 30%;
+	float: right;
+	margin-right: 90px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#log{
+	width: 150px;
+	height: 30%;
+	float: right;
+	margin-right: 10px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#centro{
+	width: 75%;
+	height: 75%;
+}
+
+#cajaDatos{
+	width: 60%;
+	height: 70%;
+	border-left: 2px solid #355F24;
+	border-right: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+	border-top: 2px solid #355F24;
+	float: left;
+	background-color: #57973B;
+	border-radius: 55px;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+
+#saludo{
+	width: 70%;
+	height: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+#correo{
+	width: 70%;
+	height: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+
+}
+
+#direccion{
+	width: 70%;
+	height: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+#telefono{
+	width: 70%;
+	height: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+
+}
+
+#empresa{
+	width: 70%;
+	height: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+#linkInicio{
+	width: 25%;
+	height: 9%;
+	float: left;
+	margin-left: 90px;
+	margin-top: 12%;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#linkVer{
+	width: 25%;
+	height: 9%;
+	float: left;
+	margin-left: 90px;
+	margin-top: 55px;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}

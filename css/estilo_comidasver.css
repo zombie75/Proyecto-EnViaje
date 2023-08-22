@@ -1,0 +1,201 @@
+html, body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #92D07D;
+}
+#todo{
+	width: 100%;
+	height: 100%;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#top{
+	width: 100%;
+	height: 120px;
+	background-color: #57973B;
+	background-size: 100% 100%;
+	padding: 0px;
+	border-top: 2px solid #355F24;
+	border-bottom: 2px solid #355F24;
+}
+#titulo1{
+	width: 85px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 90px;
+	float: left;
+}
+#titulo2{
+	width: 150px;
+	height: 80%;
+	color: green;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+#titulo3{
+	width: 60px;
+	height: 80%;
+	color: white;
+	font-size: 80px;
+	margin-top: 20px;
+	margin-left: 0px;
+	float: left;
+}
+
+#reg{
+	width: 170px;
+	height: 30%;
+	float: right;
+	margin-right: 90px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#log{
+	width: 150px;
+	height: 30%;
+	float: right;
+	margin-right: 10px;
+	margin-top: 55px;
+	background-color: #92D07D;
+	background-size: 100% 100%;
+	border: 2px solid #355F24;
+	font-size: 30px;
+	color: #355F24;
+	text-align: center;
+	border-radius: 55px;
+}
+
+#centro{
+	width: 100%;
+	height: 100%;
+}
+
+#derecha{
+	width: 70%;
+	height: 95%;
+	float: left;
+
+}
+
+#cajaDatos{
+	width: 90%;
+	height: 65%;
+	float: left;
+	border: 2px solid #355F24;
+	border-radius: 55px;
+	margin-top: 2%;
+	margin-left: 2%;
+	background-color: #57973B;
+
+}
+#txt{
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+
+#titulo{
+	width: 80%;
+	height: 10%;
+	margin-left: 5%;
+}
+
+#region{
+	width: 80%;
+	height: 10%;
+	margin-left: 5%;
+}
+
+#direccion{
+	width: 80%;
+	height: 10%;
+	margin-left: 5%;
+}
+
+#desc{
+	width: 80%;
+	height: 10%;
+	margin-left: 5%;
+	float: left;
+}
+
+#MiDer{
+	width: 45%;
+	height: 10%;
+	margin-left: 5%;
+	float: left;
+}
+
+#MiIz{
+	width: 45%;
+	height: 10%;
+	margin-left: 5%;
+	float: right;
+}
+
+#delaimag{
+	width: 30%;
+	height: 100%;
+	float: right;
+	margin-top: 3%;
+	float: right;
+}
+
+#agCom{
+	width: 90%;
+	height: 30%;
+	float: left;
+	border: 2px solid #355F24;
+	border-radius: 55px;
+	margin-top: 2%;
+	margin-left: 2%;
+	background-color: #57973B;
+}
+#izquierda{
+	width: 30%;
+	height: 95%;
+	float: right;
+}
+
+#verCom{
+	width: 90%;
+	height: 35%;
+	float: right;
+	margin-right: 3%;
+	border: 2px solid #355F24;
+	border-radius: 55px;
+	margin-top: 2%;
+	margin-right: : 2%;
+	background-color: #57973B;
+}
+
+#nombre{
+	width: 80%;
+	height: 10%;
+	margin-left: 5%;
+}
+
+#boton{
+	width: 80%;
+	height: 10%;
+	margin-right: 5%;
+	margin-top: 2%;
+	float: right;
+}
