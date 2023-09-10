@@ -77,8 +77,7 @@
 				for ($i=$nf; $i>=0 ; $i--) { 
 					$resi = $mysqli->query("SELECT * FROM servicio_hospedaje WHERE id_servicio_hospedaje='$i' ");
 					$fi = mysqli_fetch_row($resi);
-					if (is_array($fi) && isset($fi[0]) && is_string($fi[0]) && strcmp($fi[0], "") == 0) {
-
+					if (strcmp($fi[0], "") == 0) {
 						//comprueba que no este vacio
 					}else{
 						$resi2 = $mysqli->query("SELECT * FROM foto WHERE id_servicio_hospedaje='$i' ");

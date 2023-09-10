@@ -5,8 +5,6 @@
 		<title>EnViaje</title>
 		<link rel="stylesheet" href="css/estilo.css">
 			<?php
-		
-			
 			session_start();
 			if (isset($_SESSION["correo"])) {
 				
